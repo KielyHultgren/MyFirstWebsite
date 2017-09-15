@@ -26,10 +26,6 @@ $('.Coffee-Menu').on('click',function(event){
 })
 
 
-$('button').on('hover',function(event){
-    $()
-})
-
 $(window).on('scroll', function(){
   var distanceScrolled = $(window).scrollTop();
   console.log(distanceScrolled);
